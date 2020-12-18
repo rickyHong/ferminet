@@ -1,5 +1,7 @@
 # FermiNet: Fermionic Neural Networks
 
+https://deepmind.com/blog/article/FermiNet
+
 An implementation of the algorithm and experiments defined in "Ab-Initio
 Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks",
 David Pfau, James S. Spencer, Alex G de G Matthews and W.M.C. Foulkes, Phys.
