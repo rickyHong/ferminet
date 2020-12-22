@@ -4,6 +4,10 @@ https://deepmind.com/blog/article/FermiNet
 
 https://medium.com/syncedreview/quantum-chemistry-breakthrough-deepmind-uses-neural-networks-to-tackle-schr%C3%B6dinger-equation-a5ad4e3bfea0
 
+[KAIST] GCN, 소재 합성 가능성 예측기술
+https://www.etnews.com/20201222000119?mc=em_010_0001
+
+
 An implementation of the algorithm and experiments defined in "Ab-Initio
 Solution of the Many-Electron Schroedinger Equation with Deep Neural Networks",
 David Pfau, James S. Spencer, Alex G de G Matthews and W.M.C. Foulkes, Phys.
