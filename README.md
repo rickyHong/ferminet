@@ -9,6 +9,7 @@ https://www.etnews.com/20201222000119?mc=em_010_0001
 
 *Jan Hermann et al. Deep-neural-network solution of the electronic Schrödinger equation, Nature Chemistry (2020). DOI: 10.1038/s41557-020-0544-y
 http://dx.doi.org/10.1038/s41557-020-0544-y
+https://arxiv.org/abs/1909.08423
 
 
 
